@@ -415,7 +415,12 @@
 	 font-weight: 600;
 }
  
-/* We Supply  */
-section#we-supply-market{
-	
+/* valued  */
+
+.contact-section .col-md-2 .project img {
+    border: 4px solid #1e9b66;
+    height: 9rem;
+    width: inherit;
+    padding: 1rem;
+    object-fit: contain;
 }
